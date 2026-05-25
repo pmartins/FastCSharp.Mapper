@@ -6,10 +6,10 @@ Then we can decide if and how a feature or a change could be implemented and if 
 Also read this first: [Being a good open source citizen](https://hackernoon.com/being-a-good-open-source-citizen-9060d0ab9732#.x3hocgw85)
 
 ## General feedback and discussions
-Please start a discussion on the [core repo issue tracker](https://github.com/AutoMapper/AutoMapper/issues).
+Please start a discussion on the [core repo issue tracker](https://github.com/pmartins/FastCSharp.Mapper/issues).
 
 ## Platform
-AutoMapper is built using the RTM tooling that ships with the latest Visual Studio. This is the only configuration accepted.
+FastCSharp.Mapper is built using the RTM tooling that ships with the latest Visual Studio. This is the only configuration accepted.
 
 ## Building from the command line
 
@@ -18,21 +18,21 @@ Run the PowerShell script `Build.ps1` from the command line. This builds and run
 ## Bugs and feature requests?
 Please log a new issue in the appropriate GitHub repo:
 
-* [Core](https://github.com/AutoMapper/AutoMapper)
-* [EF6 Extensions](https://github.com/AutoMapper/AutoMapper.EF6)
-* [IDataReader/Record Extensions](https://github.com/AutoMapper/AutoMapper.Data)
-* [Collection Extensions](https://github.com/AutoMapper/AutoMapper.Collection)
-* [Microsoft DI Extensions](https://github.com/AutoMapper/AutoMapper.Extensions.Microsoft.DependencyInjection)
+* [Core](https://github.com/pmartins/FastCSharp.Mapper)
+* [EF6 Extensions](https://github.com/pmartins/FastCSharp.Mapper.EF6)
+* [IDataReader/Record Extensions](https://github.com/pmartins/FastCSharp.Mapper.Data)
+* [Collection Extensions](https://github.com/pmartins/FastCSharp.Mapper.Collection)
+* [Microsoft DI Extensions](https://github.com/pmartins/FastCSharp.Mapper.Extensions.Microsoft.DependencyInjection)
 
 ## Other discussions
-https://gitter.im/AutoMapper/AutoMapper
+https://gitter.im/pmartins/FastCSharp.Mapper
 
 ## Filing issues
 The best way to get your bug fixed is to be as detailed as you can be about the problem.
 Providing a minimal project with steps to reproduce the problem is ideal.
 Here are questions you can answer before you file a bug to make sure you're not missing any important information.
 
-1. Did you read the [documentation](https://automapper.readthedocs.io/en/latest/)?
+1. Did you read the [documentation](https://FastCSharp.Mapper.readthedocs.io/en/latest/)?
 2. Did you include the snippet of broken code in the issue?
 3. What are the *EXACT* steps to reproduce this problem (including source/destination types, mapping configuration and execution)?
 

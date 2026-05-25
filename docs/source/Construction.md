@@ -1,6 +1,6 @@
 # Construction
 
-AutoMapper can map to destination constructors based on source members:
+FastCSharp.Mapper can map to destination constructors based on source members:
 
 ```c#
 public class Source {
