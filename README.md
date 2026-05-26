@@ -1,4 +1,4 @@
-![FastCSharp.Mapper](https://s3.amazonaws.com/FastCSharp.Mapper/logo.png)
+![FastCSharp.Mapper](https://raw.githubusercontent.com/pmartins/FastCSharp.Mapper/refs/heads/main/docs/source/img/logo.png)
 
 [![CI](https://github.com/pmartins/FastCSharp.Mapper/workflows/CI/badge.svg)](https://github.com/pmartins/FastCSharp.Mapper/actions?query=workflow%3ACI)
 [![NuGet](http://img.shields.io/nuget/vpre/FastCSharp.Mapper.svg?label=NuGet)](https://www.nuget.org/packages/FastCSharp.Mapper/)
