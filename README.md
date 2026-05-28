@@ -2,8 +2,8 @@
 
 [![CI](https://github.com/pmartins/FastCSharp.Mapper/workflows/CI/badge.svg)](https://github.com/pmartins/FastCSharp.Mapper/actions?query=workflow%3ACI)
 [![NuGet](http://img.shields.io/nuget/vpre/FastCSharp.Mapper.svg?label=NuGet)](https://www.nuget.org/packages/FastCSharp.Mapper/)
-[![MyGet (dev)](https://img.shields.io/myget/FastCSharp.Mapperdev/vpre/FastCSharp.Mapper.svg?label=MyGet)](https://myget.org/feed/FastCSharp.Mapperdev/package/nuget/FastCSharp.Mapper)
-[![Documentation Status](https://readthedocs.org/projects/FastCSharp.Mapper/badge/?version=stable)](https://docs.FastCSharp.Mapper.org/en/stable/?badge=stable)
+<!-- [![MyGet (dev)](https://img.shields.io/myget/FastCSharp.Mapperdev/vpre/FastCSharp.Mapper.svg?label=MyGet)](https://myget.org/feed/FastCSharp.Mapperdev/package/nuget/FastCSharp.Mapper) -->
+<!-- [![Documentation Status](https://readthedocs.org/projects/FastCSharp.Mapper/badge/?version=stable)](https://docs.FastCSharp.Mapper.org/en/stable/?badge=stable) -->
 
 
 ### What is FastCSharp.Mapper?
