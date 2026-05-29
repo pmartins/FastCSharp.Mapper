@@ -9,6 +9,7 @@
 ### What is FastCSharp.Mapper?
 
 FastCSharp.Mapper is fork of AutoMapper which is binary compatible with v14.0.
+This package targets dotnet 6 to serve applications relying on it.
 
 FastCSharp.Mapper is a simple little library built to solve a deceptively complex problem - getting rid of code that mapped one object to another. This type of code is rather dreary and boring to write, so why not invent a tool to do it for us?
 
