@@ -9,9 +9,9 @@
     <AssemblyOriginatorKeyFile>..\..\AutoMapper.snk</AssemblyOriginatorKeyFile>
     <SignAssembly>true</SignAssembly>
     <PublicSign Condition=" '$(OS)' != 'Windows_NT' ">true</PublicSign>
-    <PackageId>FastCharp.Mapper</PackageId>
+    <PackageId>FastCSharp.Mapper</PackageId>
     <PackageIcon>icon.png</PackageIcon>
-    <PackageProjectUrl>https://automapper.org</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/pmartins/FastCSharp.Mapper</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
 
     <MinVerDefaultPreReleaseIdentifiers>preview.0</MinVerDefaultPreReleaseIdentifiers>
